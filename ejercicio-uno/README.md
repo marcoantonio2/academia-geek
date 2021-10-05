@@ -1,0 +1,1 @@
+los conceptos aprendidos son el como usar el git bash algunos comandos y otros
